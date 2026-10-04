@@ -38,3 +38,15 @@ html,body,header,main,footer,nav,.search,.card,.art,dialog,.close,.detail-art,.p
 dialog::backdrop{background:#000000;backdrop-filter:none}
 .card-review{margin-top:16px}.card-review p{color:#bdbdbd;font-size:14px;line-height:1.6;margin:10px 0 0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .review-detail{padding:18px 0;border-block:1px solid var(--line);margin:20px 0}.review-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.review-heading h3{font-size:17px;font-weight:500;margin:0}.review-detail>p{font-size:16px;line-height:1.75;color:#E8E6DF}.review-detail .review-origin{font-size:12px;color:#b0b0b0;line-height:1.6;margin-bottom:0}.review-sources{margin-top:16px;font-size:14px;color:var(--gold)}.review-sources p{font-size:13px;color:#b0b0b0;overflow-wrap:anywhere}.edition-note{border-left:2px solid var(--gold);padding:0 0 0 12px;font-size:14px!important;color:#c8bda9!important}
+
+/* Tarjetas: seguidores, explorar y presencia; negro absoluto. */
+.course-stats{display:grid;grid-template-columns:1fr auto;gap:15px;align-items:center;padding-top:16px}
+.course-stats>div>span{display:block;font-size:10px;letter-spacing:.08em;color:#d4b895}
+.course-stats strong{display:block;color:#e8e6df;font-size:14px;margin:6px 0}
+.course-stats small{display:block;font-size:10px;color:#aaa;line-height:1.5}
+.course-stats .live-stat{grid-column:1/-1;border-top:1px solid #30281f;padding-top:12px}
+.course-stats .cta{font-size:10px;padding:11px 9px;white-space:nowrap}
+.card-review small{font-size:10px;color:#aaa}.review-detail a{color:#d4b895;font-size:13px}
+html,body,.card,.art,dialog,.body,.course-stats{background:#000!important}
+
+.course-stats>.cta:last-child{justify-self:end;grid-column:2}.art img{object-fit:contain!important;background:#000}.detail-art{object-fit:contain}

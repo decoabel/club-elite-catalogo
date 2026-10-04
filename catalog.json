@@ -21,7 +21,26 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 3
+    "videoTimestamp": 3,
+    "socialAudience": {
+      "value": 486000,
+      "label": "≈486 mil",
+      "scope": "Instagram @victorherasemprendedor · cifra parcial, referencia de septiembre de 2026.",
+      "sources": [
+        {
+          "label": "Ficha de Víctor Heras",
+          "url": "https://mentorexplorer.com/mentor/victor-heras"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "video-claude-academy",
@@ -65,6 +84,20 @@
       "sourceLabel": "Fuente: Claude Academy oficial",
       "receivedAt": "2026-10-04",
       "editionNote": "La reseña aportada se refiere a la plataforma oficial de Anthropic. Falta confirmar que la portada y la edición de esta ficha correspondan a esa misma plataforma."
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Plataforma formativa de Anthropic que ofrece rutas de aprendizaje sobre Claude, Claude Code, Claude Cowork, Model Context Protocol y desarrollo asistido por IA. Incluye lecciones estructuradas y evaluaciones.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -89,7 +122,21 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 7
+    "videoTimestamp": 7,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "video-hackeando",
@@ -133,6 +180,25 @@
       "sourceLabel": "Fuente: Hackeando la Edición – Web oficial",
       "receivedAt": "2026-10-04",
       "editionNote": "La denominación 2.0 y las cifras de lecciones de la oferta pública deben contrastarse con la versión disponible."
+    },
+    "socialAudience": {
+      "value": 300000,
+      "label": "+300 mil",
+      "scope": "Seguidores orgánicos declarados por Guille Collado; sin desglose por red.",
+      "sources": [
+        {
+          "label": "Guille Collado",
+          "url": "https://guillermocollado.com/hackeando-algoritmo-especial/"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Curso práctico de edición de vídeos para Instagram, TikTok y YouTube utilizando CapCut. Trabaja planificación audiovisual, técnicas de edición, subtítulos, efectos, creatividad y optimización del tiempo de producción. La oferta oficial publicada incluye más de 50 lecciones; la denominación exacta «2.0» debe contrastarse con la versión adquirida.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -176,6 +242,25 @@
       ],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "value": 486000,
+      "label": "≈486 mil",
+      "scope": "Instagram @victorherasemprendedor · cifra parcial, referencia de septiembre de 2026.",
+      "sources": [
+        {
+          "label": "Ficha de Víctor Heras",
+          "url": "https://mentorexplorer.com/mentor/victor-heras"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa orientado a construir una presencia digital diferenciada y comercialmente rentable. Las descripciones encontradas incluyen estrategia de contenidos, desarrollo de comunidades, posicionamiento profesional y monetización de marca personal.\nExisten fichas con imagen comercial, pero falta validar la portada oficial de esta edición.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -219,6 +304,25 @@
       ],
       "sourceLabel": "Referencia:",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Mentoría de dropshipping orgánico que guía desde cero la creación de una tienda y la captación de tráfico mediante contenido.",
+      "sources": [
+        {
+          "label": "Perfil oficial en Hotmart",
+          "url": "https://hotmart.com/es/marketplace/especialista/mv-ecomdrop-slu/8F9RF0HLQH"
+        }
+      ],
+      "origin": "Resumen de Organic Ecom; no confirma todos los módulos de la edición III."
     }
   },
   {
@@ -243,7 +347,21 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 17
+    "videoTimestamp": 17,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "video-claude-pro",
@@ -268,7 +386,26 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 18
+    "videoTimestamp": 18,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Curso para trabajar con Claude: configuración, prompts y uso de Projects, Skills, Cowork y Code para construir flujos de trabajo profesionales.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://santiagocosme.com/cursos/curso-de-claude/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "video-automations",
@@ -293,7 +430,26 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 18.6
+    "videoTimestamp": 18.6,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Academia de inteligencia artificial aplicada a empresas, centrada en ordenar procesos y desarrollar automatizaciones útiles para el trabajo.",
+      "sources": [
+        {
+          "label": "Web de Ángel Aparicio",
+          "url": "https://angelaparicio.com/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "video-ai-mastery",
@@ -334,6 +490,25 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "value": 100000,
+      "label": "+100 mil",
+      "scope": "Comunidad declarada por Diego Arroyo; no es un total desglosado de todas las redes.",
+      "sources": [
+        {
+          "label": "Creator Club: comunidad del fundador",
+          "url": "https://www.creatorclub.store/"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "El título sugiere una formación para dominar herramientas de inteligencia artificial, pero existen denominaciones similares y no se ha identificado un autor o edición inequívocos. Se requiere información adicional para elaborar una reseña fiable.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -376,6 +551,25 @@
       ],
       "sourceLabel": "Fuente: Ficha de Hotmart",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación en dropshipping con Meta Ads: campañas publicitarias para llevar tráfico a una tienda online y convertir visitas en ventas.",
+      "sources": [
+        {
+          "label": "Ficha del creador en Hotmart",
+          "url": "https://hotmart.com/es/marketplace/productos/ads-by-organic-ecom"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -400,7 +594,21 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 21
+    "videoTimestamp": 21,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "video-heygen",
@@ -424,7 +632,26 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 21.5
+    "videoTimestamp": 21.5,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Curso de creación de vídeos con HeyGen: guiones, voces, avatares, elementos de marca, traducción y funciones avanzadas.",
+      "sources": [
+        {
+          "label": "Curso y opiniones en Platzi",
+          "url": "https://platzi.com/cursos/heygen/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "video-gemini",
@@ -448,22 +675,38 @@
     "accessUrl": null,
     "source": "Ficha y portada capturadas del video de referencia.",
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
-    "videoTimestamp": 22.5
+    "videoTimestamp": 22.5,
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Curso para crear flujos de trabajo con Gemini, organizar conocimiento con NotebookLM y aprovechar las funciones de IA de Google Workspace.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://iaenaccion.com/curso-ia-gemini-notebook-google/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "curso-85",
     "title": "Adrianus Flow 1.0 2026",
     "category": "Trading y finanzas",
     "author": "Adrián Moreno",
-    "cover": "assets/IMG-20261003-WA0085.jpg",
+    "cover": "assets/IMG-20261003-WA0085.webp",
     "image": {
-      "file": "IMG-20261003-WA0085.jpg",
       "width": 1536,
       "height": 1024,
-      "cropTop": 92,
-      "cropBottom": 974,
-      "bytes": 183007,
-      "exif": {}
+      "cropTop": 0,
+      "cropBottom": 1024
     },
     "type": "Curso",
     "badges": [
@@ -473,22 +716,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-86",
     "title": "AnubisFX 2026",
     "category": "Trading y finanzas",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0086.jpg",
+    "cover": "assets/IMG-20261003-WA0086.webp",
     "image": {
-      "file": "IMG-20261003-WA0086.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 573,
-      "cropBottom": 1007,
-      "bytes": 43784,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -498,22 +753,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-87",
     "title": "Rentas inteligentes",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0087.jpg",
+    "cover": "assets/IMG-20261003-WA0087.webp",
     "image": {
-      "file": "IMG-20261003-WA0087.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 556,
-      "cropBottom": 1004,
-      "bytes": 37988,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [
@@ -523,22 +790,39 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa sobre creación y venta de aplicaciones con inteligencia artificial, orientado a resolver problemas de clientes y construir ingresos recurrentes.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://melisaescobar.com/sdrentas/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "curso-88",
     "title": "Master Escala",
     "category": "Formación y desarrollo personal",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0088.jpg",
+    "cover": "assets/IMG-20261003-WA0088.webp",
     "image": {
-      "file": "IMG-20261003-WA0088.jpg",
-      "width": 1338,
-      "height": 813,
+      "width": 1876,
+      "height": 838,
       "cropTop": 0,
-      "cropBottom": 813,
-      "bytes": 90687,
-      "exif": {}
+      "cropBottom": 838
     },
     "type": "Curso",
     "badges": [],
@@ -546,22 +830,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-89",
     "title": "Fórmula 100K – Andrea Vega 2026",
     "category": "YouTube y monetización",
     "author": "Andrea Vega",
-    "cover": "assets/IMG-20261003-WA0089.jpg",
+    "cover": "assets/IMG-20261003-WA0089.webp",
     "image": {
-      "file": "IMG-20261003-WA0089.jpg",
-      "width": 1440,
-      "height": 790,
-      "cropTop": 51,
-      "cropBottom": 790,
-      "bytes": 126761,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -589,6 +885,26 @@
       ],
       "sourceLabel": "Fuente: Comunidad Fórmula 100K",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa de estrategia de contenido y guionización para crear publicaciones con intención comercial, desarrollar una marca personal y vender de forma orgánica.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://formula100k.us/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -596,15 +912,12 @@
     "title": "Organic Ecommerce con módulos IA 2026",
     "category": "E-commerce y negocios digitales",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0090.jpg",
+    "cover": "assets/IMG-20261003-WA0090.webp",
     "image": {
-      "file": "IMG-20261003-WA0090.jpg",
-      "width": 1398,
-      "height": 770,
+      "width": 1689,
+      "height": 931,
       "cropTop": 0,
-      "cropBottom": 770,
-      "bytes": 162585,
-      "exif": {}
+      "cropBottom": 931
     },
     "type": "Curso",
     "badges": [
@@ -614,22 +927,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-91",
     "title": "Monetización de canales con IA",
     "category": "YouTube y monetización",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0091.jpg",
+    "cover": "assets/IMG-20261003-WA0091.webp",
     "image": {
-      "file": "IMG-20261003-WA0091.jpg",
-      "width": 1335,
-      "height": 811,
+      "width": 1609,
+      "height": 977,
       "cropTop": 0,
-      "cropBottom": 811,
-      "bytes": 149101,
-      "exif": {}
+      "cropBottom": 977
     },
     "type": "Curso",
     "badges": [],
@@ -637,22 +962,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-92",
     "title": "Creator Club 2026 – Diego Arroyo",
     "category": "Creación de contenido y marca personal",
     "author": "Diego Arroyo",
-    "cover": "assets/IMG-20261003-WA0092.jpg",
+    "cover": "assets/IMG-20261003-WA0092.webp",
     "image": {
-      "file": "IMG-20261003-WA0092.jpg",
-      "width": 1363,
-      "height": 767,
+      "width": 1672,
+      "height": 941,
       "cropTop": 0,
-      "cropBottom": 767,
-      "bytes": 131627,
-      "exif": {}
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -683,6 +1020,31 @@
       ],
       "sourceLabel": "Fuente: Creator Club oficial",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 100000,
+      "label": "+100 mil",
+      "scope": "Comunidad declarada por Diego Arroyo; no es un total desglosado de todas las redes.",
+      "sources": [
+        {
+          "label": "Creator Club: comunidad del fundador",
+          "url": "https://www.creatorclub.store/"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Academia de edición de vídeo con clases prácticas, presets y recursos para CapCut, Premiere Pro, After Effects y DaVinci Resolve. Incluye comunidad y actualizaciones.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://www.creatorclub.store/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -690,15 +1052,12 @@
     "title": "Vende con Facebook Ads 2026",
     "category": "Marketing digital, publicidad y ventas",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0093.jpg",
+    "cover": "assets/IMG-20261003-WA0093.webp",
     "image": {
-      "file": "IMG-20261003-WA0093.jpg",
-      "width": 1350,
-      "height": 807,
+      "width": 1622,
+      "height": 969,
       "cropTop": 0,
-      "cropBottom": 807,
-      "bytes": 143056,
-      "exif": {}
+      "cropBottom": 969
     },
     "type": "Curso",
     "badges": [
@@ -708,22 +1067,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-94",
     "title": "Master Tube 2026 – Marc Basi",
     "category": "YouTube y monetización",
     "author": "Marc Basi",
-    "cover": "assets/IMG-20261003-WA0094.jpg",
+    "cover": "assets/IMG-20261003-WA0094.webp",
     "image": {
-      "file": "IMG-20261003-WA0094.jpg",
-      "width": 1380,
-      "height": 769,
+      "width": 1680,
+      "height": 936,
       "cropTop": 0,
-      "cropBottom": 766,
-      "bytes": 121845,
-      "exif": {}
+      "cropBottom": 936
     },
     "type": "Curso",
     "badges": [
@@ -751,6 +1122,26 @@
       ],
       "sourceLabel": "Referencia comercial:",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación para crear y monetizar canales de YouTube sin aparecer en cámara, con selección de nichos, producción de contenido y acompañamiento.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://master-tube.com/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -758,15 +1149,12 @@
     "title": "Vende tu ebook mientras duermes",
     "category": "E-commerce y negocios digitales",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0095.jpg",
+    "cover": "assets/IMG-20261003-WA0095.webp",
     "image": {
-      "file": "IMG-20261003-WA0095.jpg",
-      "width": 1370,
-      "height": 844,
+      "width": 1598,
+      "height": 984,
       "cropTop": 0,
-      "cropBottom": 844,
-      "bytes": 126925,
-      "exif": {}
+      "cropBottom": 984
     },
     "type": "Curso",
     "badges": [],
@@ -774,22 +1162,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-96",
     "title": "Curso de Claude paso a paso 2026",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0096.jpg",
+    "cover": "assets/IMG-20261003-WA0096.webp",
     "image": {
-      "file": "IMG-20261003-WA0096.jpg",
-      "width": 1379,
-      "height": 831,
+      "width": 1615,
+      "height": 974,
       "cropTop": 0,
-      "cropBottom": 831,
-      "bytes": 143130,
-      "exif": {}
+      "cropBottom": 974
     },
     "type": "Curso",
     "badges": [
@@ -799,22 +1199,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-97",
     "title": "Inglés Raio 2026",
     "category": "Formación y desarrollo personal",
     "author": "Kale Anders",
-    "cover": "assets/IMG-20261003-WA0097.jpg",
+    "cover": "assets/IMG-20261003-WA0097.webp",
     "image": {
-      "file": "IMG-20261003-WA0097.jpg",
-      "width": 1417,
-      "height": 785,
+      "width": 1685,
+      "height": 934,
       "cropTop": 0,
-      "cropBottom": 785,
-      "bytes": 146635,
-      "exif": {}
+      "cropBottom": 934
     },
     "type": "Curso",
     "badges": [
@@ -826,22 +1238,39 @@
     "students": 147,
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
-    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 2580283,
+      "label": "≈2,58 millones",
+      "scope": "Instagram @kaleanderss · cifra parcial, 02/10/2026; no incluye otras redes.",
+      "sources": [
+        {
+          "label": "HypeAuditor: Kale Anders",
+          "url": "https://hypeauditor.com/es/instagram/kaleanderss/"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-98",
     "title": "IA Makers 2026",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0098.jpg",
+    "cover": "assets/IMG-20261003-WA0098.webp",
     "image": {
-      "file": "IMG-20261003-WA0098.jpg",
-      "width": 1389,
-      "height": 774,
+      "width": 1680,
+      "height": 936,
       "cropTop": 0,
-      "cropBottom": 774,
-      "bytes": 143350,
-      "exif": {}
+      "cropBottom": 936
     },
     "type": "Curso",
     "badges": [
@@ -851,22 +1280,44 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 5900,
+      "label": "≈5,9 mil",
+      "scope": "Skool · cifra parcial; otras redes no sumadas.",
+      "sources": [
+        {
+          "label": "Perfil oficial de Fabio Villanueva",
+          "url": "https://www.skool.com/%40fabio-villanueva-9503"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Comunidad de aprendizaje sobre monetización de YouTube, Facebook y TikTok con inteligencia artificial. Incluye clases grupales, revisión de canales y soporte.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://www.skool.com/ia-makers/about"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "curso-99",
     "title": "UGC Academy 2026",
     "category": "Marketing digital, publicidad y ventas",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0099.jpg",
+    "cover": "assets/IMG-20261003-WA0099.webp",
     "image": {
-      "file": "IMG-20261003-WA0099.jpg",
-      "width": 1363,
-      "height": 823,
+      "width": 1614,
+      "height": 975,
       "cropTop": 0,
-      "cropBottom": 814,
-      "bytes": 152073,
-      "exif": {}
+      "cropBottom": 975
     },
     "type": "Curso",
     "badges": [
@@ -876,22 +1327,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-100",
     "title": "Mike IA – Influencer IA",
     "category": "Inteligencia artificial",
     "author": "Mike IA",
-    "cover": "assets/IMG-20261003-WA0100.jpg",
+    "cover": "assets/IMG-20261003-WA0100.webp",
     "image": {
-      "file": "IMG-20261003-WA0100.jpg",
-      "width": 1379,
-      "height": 798,
+      "width": 1649,
+      "height": 954,
       "cropTop": 0,
-      "cropBottom": 798,
-      "bytes": 105681,
-      "exif": {}
+      "cropBottom": 954
     },
     "type": "Curso",
     "badges": [],
@@ -915,6 +1378,21 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "El nombre apunta a la creación de influencers virtuales utilizando inteligencia artificial. No se identificó un programa público inequívoco que permita confirmar su metodología o edición.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -922,15 +1400,12 @@
     "title": "Viraliza",
     "category": "Marketing digital, publicidad y ventas",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0101.jpg",
+    "cover": "assets/IMG-20261003-WA0101.webp",
     "image": {
-      "file": "IMG-20261003-WA0101.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 557,
-      "cropBottom": 1003,
-      "bytes": 44050,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -940,22 +1415,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-102",
     "title": "Inteligencia Viral 2026 – Julián Alborna",
     "category": "YouTube y monetización",
     "author": "Julián Alborna",
-    "cover": "assets/IMG-20261003-WA0102.jpg",
+    "cover": "assets/IMG-20261003-WA0102.webp",
     "image": {
-      "file": "IMG-20261003-WA0102.jpg",
-      "width": 1375,
-      "height": 764,
+      "width": 1683,
+      "height": 935,
       "cropTop": 0,
-      "cropBottom": 764,
-      "bytes": 142920,
-      "exif": {}
+      "cropBottom": 935
     },
     "type": "Curso",
     "badges": [
@@ -985,6 +1472,21 @@
       ],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa identificado en catálogos comerciales dentro de creación de contenido y redes sociales. Su propuesta se relaciona con la viralidad digital. Falta verificar el contenido detallado de la edición 2026 directamente con su creador.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -992,15 +1494,12 @@
     "title": "IA Marketing: ventas automáticas",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Dubner Mendoza",
-    "cover": "assets/IMG-20261003-WA0103.jpg",
+    "cover": "assets/IMG-20261003-WA0103.webp",
     "image": {
-      "file": "IMG-20261003-WA0103.jpg",
-      "width": 1379,
-      "height": 766,
+      "width": 1683,
+      "height": 935,
       "cropTop": 0,
-      "cropBottom": 766,
-      "bytes": 163929,
-      "exif": {}
+      "cropBottom": 935
     },
     "type": "Curso",
     "badges": [],
@@ -1008,22 +1507,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-104",
     "title": "Mateo Mafia – BYF 2026",
     "category": "Marketing digital, publicidad y ventas",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0104.jpg",
+    "cover": "assets/IMG-20261003-WA0104.webp",
     "image": {
-      "file": "IMG-20261003-WA0104.jpg",
-      "width": 1393,
-      "height": 836,
+      "width": 1619,
+      "height": 972,
       "cropTop": 0,
-      "cropBottom": 836,
-      "bytes": 169851,
-      "exif": {}
+      "cropBottom": 972
     },
     "type": "Curso",
     "badges": [
@@ -1050,6 +1561,26 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa Build Your Freedom para crecer y vender mediante TikTok. Trabaja marca personal, ganchos para vídeos, publicaciones y construcción de ofertas.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://www.skool.com/desafio-byf/about"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -1057,15 +1588,12 @@
     "title": "Monetiza en 24 horas",
     "category": "YouTube y monetización",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0105.jpg",
+    "cover": "assets/IMG-20261003-WA0105.webp",
     "image": {
-      "file": "IMG-20261003-WA0105.jpg",
-      "width": 1364,
-      "height": 761,
+      "width": 1678,
+      "height": 937,
       "cropTop": 0,
-      "cropBottom": 761,
-      "bytes": 162765,
-      "exif": {}
+      "cropBottom": 937
     },
     "type": "Curso",
     "badges": [],
@@ -1073,22 +1601,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-106",
     "title": "Creator Monetización LAP 2026",
     "category": "YouTube y monetización",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0106.jpg",
+    "cover": "assets/IMG-20261003-WA0106.webp",
     "image": {
-      "file": "IMG-20261003-WA0106.jpg",
-      "width": 1432,
-      "height": 782,
+      "width": 1697,
+      "height": 927,
       "cropTop": 0,
-      "cropBottom": 782,
-      "bytes": 175073,
-      "exif": {}
+      "cropBottom": 927
     },
     "type": "Curso",
     "badges": [
@@ -1098,22 +1638,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-107",
     "title": "Club Creadores IA – Ale Ferr 2026",
     "category": "Inteligencia artificial",
     "author": "Ale Ferr",
-    "cover": "assets/IMG-20261003-WA0107.jpg",
+    "cover": "assets/IMG-20261003-WA0107.webp",
     "image": {
-      "file": "IMG-20261003-WA0107.jpg",
-      "width": 1409,
-      "height": 781,
-      "cropTop": 2,
-      "cropBottom": 781,
-      "bytes": 187677,
-      "exif": {}
+      "width": 1685,
+      "height": 934,
+      "cropTop": 0,
+      "cropBottom": 934
     },
     "type": "Curso",
     "badges": [
@@ -1126,7 +1678,7 @@
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
     "alternativeCovers": [
-      "assets/IMG-20261003-WA0122.jpg"
+      "assets/IMG-20261003-WA0122.webp"
     ],
     "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
     "aliases": [
@@ -1146,6 +1698,26 @@
       ],
       "sourceLabel": "Fuente: Ficha del Club Creadores IA",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa para desarrollar canales con IA, con una ruta de trabajo, llamadas grupales semanales y una biblioteca de cursos y asesorías.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://www.skool.com/ccia/about"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -1153,15 +1725,12 @@
     "title": "Afiliado Pro NOV",
     "category": "E-commerce y negocios digitales",
     "author": "Javi Elices",
-    "cover": "assets/IMG-20261003-WA0108.jpg",
+    "cover": "assets/IMG-20261003-WA0108.webp",
     "image": {
-      "file": "IMG-20261003-WA0108.jpg",
-      "width": 1393,
-      "height": 836,
+      "width": 1619,
+      "height": 972,
       "cropTop": 0,
-      "cropBottom": 836,
-      "bytes": 159064,
-      "exif": {}
+      "cropBottom": 972
     },
     "type": "Curso",
     "badges": [],
@@ -1169,22 +1738,44 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 3110,
+      "label": "≈3,1 mil",
+      "scope": "YouTube Academia de Afiliación · cifra parcial, referencia 09/09/2026.",
+      "sources": [
+        {
+          "label": "Ficha de Javier Elices",
+          "url": "https://mentorexplorer.com/mentor/javier-elices"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación de Javier Elices en marketing de afiliación profesional: estrategias para promocionar productos digitales y desarrollar un negocio de afiliados.",
+      "sources": [
+        {
+          "label": "Ficha del creador en Hotmart",
+          "url": "https://hotmart.com/es/marketplace/productos/puertas-abiertas-afiliadopro/Y90197296K"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "curso-109",
     "title": "Monetiza música con IA 2026",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0109.jpg",
+    "cover": "assets/IMG-20261003-WA0109.webp",
     "image": {
-      "file": "IMG-20261003-WA0109.jpg",
-      "width": 1376,
-      "height": 770,
+      "width": 1676,
+      "height": 938,
       "cropTop": 0,
-      "cropBottom": 770,
-      "bytes": 172368,
-      "exif": {}
+      "cropBottom": 938
     },
     "type": "Curso",
     "badges": [
@@ -1194,22 +1785,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-110",
     "title": "Organic Clipping 2026",
     "category": "YouTube y monetización",
     "author": "Marc Verdú",
-    "cover": "assets/IMG-20261003-WA0110.jpg",
+    "cover": "assets/IMG-20261003-WA0110.webp",
     "image": {
-      "file": "IMG-20261003-WA0110.jpg",
-      "width": 1371,
-      "height": 752,
+      "width": 1694,
+      "height": 929,
       "cropTop": 0,
-      "cropBottom": 752,
-      "bytes": 149938,
-      "exif": {}
+      "cropBottom": 929
     },
     "type": "Curso",
     "badges": [
@@ -1221,22 +1824,34 @@
     "students": 51,
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
-    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-111",
     "title": "Domina YouTube Shorts desde cero 2026",
     "category": "YouTube y monetización",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0111.jpg",
+    "cover": "assets/IMG-20261003-WA0111.webp",
     "image": {
-      "file": "IMG-20261003-WA0111.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 577,
-      "cropBottom": 983,
-      "bytes": 73313,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [
@@ -1246,22 +1861,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-114",
     "title": "La Verdad",
     "category": "E-commerce y negocios digitales",
     "author": "Arz Urus",
-    "cover": "assets/IMG-20261003-WA0114.jpg",
+    "cover": "assets/IMG-20261003-WA0114.webp",
     "image": {
-      "file": "IMG-20261003-WA0114.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 602,
-      "cropBottom": 973,
-      "bytes": 49358,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -1272,22 +1899,34 @@
     "students": 151,
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
-    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-115",
     "title": "VProject · Viralidad",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Víctor Heras",
-    "cover": "assets/IMG-20261003-WA0115.jpg",
+    "cover": "assets/IMG-20261003-WA0115.webp",
     "image": {
-      "file": "IMG-20261003-WA0115.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 586,
-      "cropBottom": 968,
-      "bytes": 30675,
-      "exif": {}
+      "width": 1855,
+      "height": 848,
+      "cropTop": 0,
+      "cropBottom": 848
     },
     "type": "Curso",
     "badges": [],
@@ -1295,22 +1934,44 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 486000,
+      "label": "≈486 mil",
+      "scope": "Instagram @victorherasemprendedor · cifra parcial, referencia de septiembre de 2026.",
+      "sources": [
+        {
+          "label": "Ficha de Víctor Heras",
+          "url": "https://mentorexplorer.com/mentor/victor-heras"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación del ecosistema de Víctor Heras sobre crecimiento orgánico, contenido y marca personal para captar clientes mediante redes sociales.",
+      "sources": [
+        {
+          "label": "Viralidad de Víctor Heras",
+          "url": "https://viralidad.com/"
+        }
+      ],
+      "origin": "Descripción del ecosistema actual; no confirma el temario de cada edición histórica."
+    }
   },
   {
     "id": "curso-116",
     "title": "Millonario a los 24 años",
     "category": "Formación y desarrollo personal",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0116.jpg",
+    "cover": "assets/IMG-20261003-WA0116.webp",
     "image": {
-      "file": "IMG-20261003-WA0116.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 578,
-      "cropBottom": 982,
-      "bytes": 59803,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [],
@@ -1318,22 +1979,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-117",
     "title": "SIM Academy",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Mindshift",
-    "cover": "assets/IMG-20261003-WA0117.jpg",
+    "cover": "assets/IMG-20261003-WA0117.webp",
     "image": {
-      "file": "IMG-20261003-WA0117.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 561,
-      "cropBottom": 1000,
-      "bytes": 57879,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -1344,22 +2017,34 @@
     "students": 129,
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
-    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-118",
     "title": "Academia del Estratega",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Juan ADS",
-    "cover": "assets/IMG-20261003-WA0118.jpg",
+    "cover": "assets/IMG-20261003-WA0118.webp",
     "image": {
-      "file": "IMG-20261003-WA0118.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 533,
-      "cropBottom": 1026,
-      "bytes": 52669,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -1370,22 +2055,39 @@
     "students": 16,
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
-    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación en publicidad digital, desde fundamentos hasta estrategias avanzadas, con contenidos para desarrollar una agencia y crecer profesionalmente.",
+      "sources": [
+        {
+          "label": "Ficha del creador en Hotmart",
+          "url": "https://hotmart.com/es/marketplace/productos/hagsxd-academia-del-estratega-v6dsb/Q95463734Q"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
+    }
   },
   {
     "id": "curso-119",
     "title": "Photoshop IA 2026",
     "category": "Creación de contenido y marca personal",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0119.jpg",
+    "cover": "assets/IMG-20261003-WA0119.webp",
     "image": {
-      "file": "IMG-20261003-WA0119.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 576,
-      "cropBottom": 984,
-      "bytes": 53661,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -1395,22 +2097,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-120",
     "title": "Cómo crear una landing page",
     "category": "Creación de contenido y marca personal",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0120.jpg",
+    "cover": "assets/IMG-20261003-WA0120.webp",
     "image": {
-      "file": "IMG-20261003-WA0120.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 577,
-      "cropBottom": 983,
-      "bytes": 40479,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [],
@@ -1418,22 +2132,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-121",
     "title": "Monetiza con IA",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0121.jpg",
+    "cover": "assets/IMG-20261003-WA0121.webp",
     "image": {
-      "file": "IMG-20261003-WA0121.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 600,
-      "cropBottom": 960,
-      "bytes": 31383,
-      "exif": {}
+      "width": 1983,
+      "height": 793,
+      "cropTop": 0,
+      "cropBottom": 793
     },
     "type": "Curso",
     "badges": [],
@@ -1441,22 +2167,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-123",
     "title": "Claude Creator 2026",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0123.jpg",
+    "cover": "assets/IMG-20261003-WA0123.webp",
     "image": {
-      "file": "IMG-20261003-WA0123.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 590,
-      "cropBottom": 969,
-      "bytes": 64683,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [
@@ -1466,22 +2204,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-124",
     "title": "Universidad de Marca Personal",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Víctor Heras",
-    "cover": "assets/IMG-20261003-WA0124.jpg",
+    "cover": "assets/IMG-20261003-WA0124.webp",
     "image": {
-      "file": "IMG-20261003-WA0124.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 577,
-      "cropBottom": 983,
-      "bytes": 36692,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [
@@ -1492,22 +2242,44 @@
     "students": 15,
     "price": null,
     "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
-    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 486000,
+      "label": "≈486 mil",
+      "scope": "Instagram @victorherasemprendedor · cifra parcial, referencia de septiembre de 2026.",
+      "sources": [
+        {
+          "label": "Ficha de Víctor Heras",
+          "url": "https://mentorexplorer.com/mentor/victor-heras"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación del ecosistema de Víctor Heras sobre crecimiento orgánico, contenido y marca personal para captar clientes mediante redes sociales.",
+      "sources": [
+        {
+          "label": "Viralidad de Víctor Heras",
+          "url": "https://viralidad.com/"
+        }
+      ],
+      "origin": "Descripción del ecosistema actual; no confirma el temario de cada edición histórica."
+    }
   },
   {
     "id": "curso-125",
     "title": "Avatares IA desde cero",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0125.jpg",
+    "cover": "assets/IMG-20261003-WA0125.webp",
     "image": {
-      "file": "IMG-20261003-WA0125.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 579,
-      "cropBottom": 981,
-      "bytes": 42625,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [],
@@ -1515,22 +2287,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-126",
     "title": "UDNIA – Rodrigo Alfaro 2026",
     "category": "Formación y desarrollo personal",
     "author": "Rodrigo Alfaro",
-    "cover": "assets/IMG-20261003-WA0126.jpg",
+    "cover": "assets/IMG-20261003-WA0126.webp",
     "image": {
-      "file": "IMG-20261003-WA0126.jpg",
-      "width": 640,
-      "height": 438,
-      "cropTop": 15,
-      "cropBottom": 435,
-      "bytes": 30886,
-      "exif": {}
+      "width": 1650,
+      "height": 953,
+      "cropTop": 0,
+      "cropBottom": 953
     },
     "type": "Curso",
     "badges": [
@@ -1559,6 +2343,26 @@
       ],
       "sourceLabel": "Referencia:",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Comunidad de Rodrigo Alfaro dedicada a inteligencia artificial aplicada y modelos de negocio digitales.",
+      "sources": [
+        {
+          "label": "Perfil oficial del fundador",
+          "url": "https://www.skool.com/%40rodrigo-alfaro-8171"
+        }
+      ],
+      "origin": "Resumen del proyecto identificado; edición 2026 no contrastada."
     }
   },
   {
@@ -1566,15 +2370,12 @@
     "title": "Método Chicas IA 4.0 – 2026",
     "category": "Inteligencia artificial",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0127.jpg",
+    "cover": "assets/IMG-20261003-WA0127.webp",
     "image": {
-      "file": "IMG-20261003-WA0127.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 581,
-      "cropBottom": 979,
-      "bytes": 54135,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [
@@ -1602,6 +2403,21 @@
       ],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Se encontraron referencias comerciales con esta denominación. Sin embargo, no se ha podido contrastar su temario, creador o portada de la versión 4.0 con una fuente original.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1609,15 +2425,12 @@
     "title": "$100M Money Models",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Alex Hormozi",
-    "cover": "assets/IMG-20261003-WA0128.jpg",
+    "cover": "assets/IMG-20261003-WA0128.webp",
     "image": {
-      "file": "IMG-20261003-WA0128.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 585,
-      "cropBottom": 975,
-      "bytes": 65676,
-      "exif": {}
+      "width": 1672,
+      "height": 941,
+      "cropTop": 0,
+      "cropBottom": 941
     },
     "type": "Curso",
     "badges": [
@@ -1648,6 +2461,26 @@
       "sourceLabel": "Fuente: Ficha bibliográfica de Google Books",
       "receivedAt": "2026-10-04",
       "editionNote": "La reseña aportada describe el libro publicado en 2025. Esta ficha conserva el curso y las métricas mostradas en el video; no se ha confirmado que correspondan al mismo formato."
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "value": 5000000,
+      "label": "+5 millones",
+      "scope": "Audiencia declarada en Acquisition.com; sin desglose ni fecha de actualización de la cifra.",
+      "sources": [
+        {
+          "label": "Acquisition.com",
+          "url": "https://shop.acquisition.com/"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Libro empresarial que explica cómo diseñar secuencias de ofertas para captar clientes, incrementar el ingreso por comprador y generar compras recurrentes. Desarrolla estrategias de ofertas iniciales, ventas complementarias, alternativas de compra y continuidad.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1655,15 +2488,12 @@
     "title": "MonetizaTube – Mari Fuentes 2026",
     "category": "YouTube y monetización",
     "author": "Mari Fuentes",
-    "cover": "assets/IMG-20261003-WA0129.jpg",
+    "cover": "assets/IMG-20261003-WA0129.webp",
     "image": {
-      "file": "IMG-20261003-WA0129.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 583,
-      "cropBottom": 978,
-      "bytes": 57394,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [
@@ -1691,6 +2521,26 @@
       ],
       "sourceLabel": "Fuente: Mari Fuentes – MonetizaTube",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa de creación, automatización y monetización de canales de YouTube sin mostrar el rostro, con clases, materiales y acompañamiento.",
+      "sources": [
+        {
+          "label": "Descripción del programa MonetizaTube",
+          "url": "https://monetizatube.info/terminos-y-condiciones"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -1698,15 +2548,12 @@
     "title": "De espectador a creador",
     "category": "YouTube y monetización",
     "author": "",
-    "cover": "assets/IMG-20261003-WA0133.jpg",
+    "cover": "assets/IMG-20261003-WA0133.webp",
     "image": {
-      "file": "IMG-20261003-WA0133.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 592,
-      "cropBottom": 972,
-      "bytes": 62558,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [],
@@ -1714,22 +2561,34 @@
     "lessons": null,
     "students": null,
     "price": null,
-    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Reseña pendiente: todavía no se ha identificado una fuente pública que corresponda a esta formación.",
+      "sources": [],
+      "origin": "Sin fuente pública identificada para esta edición."
+    }
   },
   {
     "id": "curso-134",
     "title": "Pack Alejandro Cardona",
     "category": "Marketing digital, publicidad y ventas",
     "author": "Alejandro Cardona",
-    "cover": "assets/IMG-20261003-WA0134.jpg",
+    "cover": "assets/IMG-20261003-WA0134.webp",
     "image": {
-      "file": "IMG-20261003-WA0134.jpg",
-      "width": 720,
-      "height": 1560,
-      "cropTop": 565,
-      "cropBottom": 995,
-      "bytes": 62711,
-      "exif": {}
+      "width": 1774,
+      "height": 887,
+      "cropTop": 0,
+      "cropBottom": 887
     },
     "type": "Curso",
     "badges": [],
@@ -1753,6 +2612,21 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "coverSource": "Portada recreada en alta resolución desde el ZIP del propietario.",
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "El término Pack no identifica una formación única. Se necesita conocer los títulos incluidos para elaborar una reseña verificable de sus contenidos.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1783,6 +2657,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Por su denominación, estaría orientado a la aplicación empresarial de la inteligencia artificial. No se localizó un temario público suficientemente identificable que permita confirmar sus herramientas o módulos.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1811,6 +2699,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Se presenta como un paquete de contenidos vinculados con negocios e inteligencia artificial. No fue posible verificar que IA Markets y Monetiza con IA formen parte de un mismo producto oficial.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1841,6 +2743,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Por el título, se relacionaría con redacción persuasiva mediante inteligencia artificial. No se encontró una edición claramente identificable con autor y contenido verificables.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1871,6 +2787,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "La información disponible no permite establecer el nombre completo del instructor ni la plataforma que enseña a monetizar. Se requiere el nombre comercial exacto.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1904,7 +2834,21 @@
     },
     "aliases": [
       "Tu Camino a los 200K"
-    ]
+    ],
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Programa orientado a comercializar productos o servicios mediante venta directa orgánica, creación de contenido, campañas de mensajes, lanzamientos y automatización. La información encontrada procede principalmente de distribuidores externos.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
+    }
   },
   {
     "id": "lista-2026-15",
@@ -1935,6 +2879,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "El nombre sugiere una formación dirigida a transformar la actividad en Facebook en una fuente de ingresos. El título original está incompleto y no permite verificar quién imparte el curso ni cuáles son sus módulos.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -1967,6 +2925,30 @@
       ],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "value": 891200,
+      "label": "≈891 mil",
+      "scope": "Suma parcial: YouTube 534 mil, Instagram 203 mil, TikTok 117,2 mil y LinkedIn 37 mil; referencia 09/09/2026.",
+      "sources": [
+        {
+          "label": "Ficha con cuentas de Felipe Vergara",
+          "url": "https://mentorexplorer.com/mentor/felipe-vergara-cediel"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Curso sobre campañas de publicidad en Facebook e Instagram para atraer clientes y vender productos o servicios mediante Meta Ads.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://felipevergara.co/curso-online/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -2000,6 +2982,25 @@
       ],
       "sourceLabel": "Fuente: Tokin Privacy – Privacidad Total",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación en privacidad digital para proteger la identidad y los dispositivos, con herramientas y prácticas accesibles para personas sin experiencia técnica.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://curso.tokinprivacy.io/formacion"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -2028,6 +3029,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Por su nombre, estaría relacionado con comercio electrónico y desarrollo de negocios online. No se identificó una página pública suficientemente fiable que confirme el programa y su contenido.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -2060,6 +3075,25 @@
       ],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Ecosistema de formación y comunidad con mentorías en emprendimiento, habilidades digitales y desarrollo personal; incluye contenidos de comercio electrónico.",
+      "sources": [
+        {
+          "label": "Lathos Club",
+          "url": "https://www.lathosclub.com/pre-waitlist"
+        }
+      ],
+      "origin": "Resumen del ecosistema público; no confirma el temario específico de la edición 2026."
     }
   },
   {
@@ -2090,6 +3124,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "No se encontró una fuente suficientemente clara para confirmar el funcionamiento del método. Se conserva el nombre original, sin atribuirle mecanismos de generación de ingresos que no estén documentados.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -2122,6 +3170,25 @@
       ],
       "sourceLabel": "Fuente: Funnel Hackers en Skool",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Escuela de negocios digitales con contenidos de ventas, copywriting, embudos y anuncios. Incluye comunidad y procesos para desarrollar y hacer crecer un negocio.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://www.skool.com/funnel-hackers/about"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -2154,6 +3221,25 @@
       ],
       "sourceLabel": "Fuente: Secret Ads en Skool",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Comunidad de Samuel Vilanova con clases sobre anuncios y mentalidad aplicada al desarrollo de campañas publicitarias.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://www.skool.com/secret-ads/about"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -2186,6 +3272,20 @@
       ],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Masterclass dedicada a crear contenido con identidad propia. Aborda diferenciación, generación de ideas, construcción de guiones, ritmo audiovisual, comprensión de la audiencia y monetización de contenidos. Existen referencias comerciales, pero no se confirmó la portada de una edición específica de 2026.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -2216,6 +3316,34 @@
       ],
       "sourceLabel": "Fuente: Instituto de Comunicación oficial",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "value": 2409000,
+      "label": "≈2,41 millones",
+      "scope": "Suma parcial: Instagram 589 mil y YouTube 1,82 millones; fuentes de fechas distintas.",
+      "sources": [
+        {
+          "label": "Instagram: Adrià Solà Pastor",
+          "url": "https://viralist.ai/instagram/creators/adriasolapastor"
+        },
+        {
+          "label": "YouTube: Adrià Solà Pastor",
+          "url": "https://influencerunion.com/creator/youtube/adriasolapastor"
+        }
+      ],
+      "checkedAt": "2026-10-04"
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Formación de comunicación para ganar confianza, expresar ideas con claridad y mejorar las relaciones personales y profesionales.",
+      "sources": [
+        {
+          "label": "Página oficial de la formación",
+          "url": "https://institutodecomunicacion.com/"
+        }
+      ],
+      "origin": "Resumen de la descripción pública; consulta 04/10/2026."
     }
   },
   {
@@ -2244,6 +3372,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Por su denominación, corresponde al ámbito del trading financiero. Sin embargo, no se ha encontrado documentación pública suficientemente clara que permita confirmar su metodología, los mercados abordados o su contenido curricular.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -2274,6 +3416,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "El título indica una formación relacionada con la estimulación y el desarrollo durante la primera infancia. No se identificó una edición específica ni su institución responsable, por lo que no sería correcto atribuirle un temario concreto.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   },
   {
@@ -2304,6 +3460,20 @@
       "sourceReferences": [],
       "sourceLabel": "",
       "receivedAt": "2026-10-04"
+    },
+    "socialAudience": {
+      "label": "Sin cifra verificada",
+      "value": null,
+      "sources": [],
+      "checkedAt": "2026-10-04",
+      "scope": "No hay un total público confirmado de todas las redes."
+    },
+    "liveViewers": null,
+    "liveStatus": "unavailable",
+    "webSummary": {
+      "text": "Por su título, el material trataría sobre sexualidad femenina y el fenómeno de la expulsión de fluidos durante la excitación sexual. No se localizó un curso específico que permita confirmar su autoría, enfoque educativo o contenido.",
+      "sources": [],
+      "origin": "Reseña aportada por el propietario; sin verificación web de esta edición."
     }
   }
 ]
