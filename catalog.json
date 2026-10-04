@@ -1,0 +1,2309 @@
+[
+  {
+    "id": "video-millon-visitas",
+    "title": "1 Millón de Visitas",
+    "author": "Víctor Heras",
+    "category": "YouTube y monetización",
+    "cover": "assets/video-millon-visitas.jpg",
+    "image": {
+      "width": 274,
+      "height": 150,
+      "cropTop": 0,
+      "cropBottom": 150
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 12,
+    "students": 23,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 3
+  },
+  {
+    "id": "video-claude-academy",
+    "title": "Claude Academy 2026",
+    "author": "Claude Academy",
+    "category": "Inteligencia artificial",
+    "cover": "assets/video-claude-academy.jpg",
+    "image": {
+      "width": 274,
+      "height": 150,
+      "cropTop": 0,
+      "cropBottom": 150
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 18,
+    "students": 77,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 6,
+    "aliases": [
+      "Claude Academy 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 3,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Plataforma formativa de Anthropic que ofrece rutas de aprendizaje sobre Claude, Claude Code, Claude Cowork, Model Context Protocol y desarrollo asistido por IA. Incluye lecciones estructuradas y evaluaciones.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Claude Academy"
+      ],
+      "sourceLabel": "Fuente: Claude Academy oficial",
+      "receivedAt": "2026-10-04",
+      "editionNote": "La reseña aportada se refiere a la plataforma oficial de Anthropic. Falta confirmar que la portada y la edición de esta ficha correspondan a esa misma plataforma."
+    }
+  },
+  {
+    "id": "video-tu-millon",
+    "title": "Tu 1 Millón",
+    "author": "Amadeos Llados",
+    "category": "Formación y desarrollo personal",
+    "cover": "assets/video-tu-millon.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 34,
+    "students": 45,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 7
+  },
+  {
+    "id": "video-hackeando",
+    "title": "Hackeando la Edición 2.0 – Guille Collado 2026",
+    "author": "Guille Collado",
+    "category": "Creación de contenido y marca personal",
+    "cover": "assets/video-hackeando.jpg",
+    "image": {
+      "width": 274,
+      "height": 154,
+      "cropTop": 0,
+      "cropBottom": 154
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 64,
+    "students": 133,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 9,
+    "aliases": [
+      "Hackeando la Edición"
+    ],
+    "inUserList": true,
+    "listPosition": 30,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Curso práctico de edición de vídeos para Instagram, TikTok y YouTube utilizando CapCut. Trabaja planificación audiovisual, técnicas de edición, subtítulos, efectos, creatividad y optimización del tiempo de producción. La oferta oficial publicada incluye más de 50 lecciones; la denominación exacta «2.0» debe contrastarse con la versión adquirida.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Guille Collado"
+      ],
+      "sourceLabel": "Fuente: Hackeando la Edición – Web oficial",
+      "receivedAt": "2026-10-04",
+      "editionNote": "La denominación 2.0 y las cifras de lecciones de la oferta pública deben contrastarse con la versión disponible."
+    }
+  },
+  {
+    "id": "video-master-marca",
+    "title": "Víctor Heras – Marca Personal 5.0 (2026)",
+    "author": "Víctor Heras",
+    "category": "Creación de contenido y marca personal",
+    "cover": "assets/video-master-marca.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 92,
+    "students": 122,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 10,
+    "aliases": [
+      "Máster Marca Personal 5.0"
+    ],
+    "inUserList": true,
+    "listPosition": 31,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Programa orientado a construir una presencia digital diferenciada y comercialmente rentable. Las descripciones encontradas incluyen estrategia de contenidos, desarrollo de comunidades, posicionamiento profesional y monetización de marca personal.\nExisten fichas con imagen comercial, pero falta validar la portada oficial de esta edición.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Victor Heras"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "video-organic-ecom",
+    "title": "Organic Ecom III – Marc Verdú",
+    "author": "Marc Verdú",
+    "category": "E-commerce y negocios digitales",
+    "cover": "assets/video-organic-ecom.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 888,
+    "students": 110,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 12,
+    "aliases": [
+      "Organic Ecom 3.0 · Junio 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 19,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Formación asociada al comercio electrónico mediante estrategias orgánicas, especialmente a través de contenido en redes sociales. Se identificó el título y autor en catálogos, aunque falta contrastar la estructura completa de la tercera edición.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Cursos & Infoproductos"
+      ],
+      "sourceLabel": "Referencia:",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "video-anna",
+    "title": "TUMADREANNA Marketing Definitivo",
+    "author": "Anna María Pavlyuk",
+    "category": "Marketing digital, publicidad y ventas",
+    "cover": "assets/video-anna.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 51,
+    "students": 102,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 17
+  },
+  {
+    "id": "video-claude-pro",
+    "title": "Curso de Claude Pro 2026",
+    "author": "Santiago Cosme",
+    "category": "Inteligencia artificial",
+    "cover": "assets/video-claude-pro.jpg",
+    "image": {
+      "width": 274,
+      "height": 154,
+      "cropTop": 0,
+      "cropBottom": 154
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 71,
+    "students": 5,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 18
+  },
+  {
+    "id": "video-automations",
+    "title": "IA Masters Automations Skool 2026",
+    "author": "Ángel Aparicio",
+    "category": "Inteligencia artificial",
+    "cover": "assets/video-automations.jpg",
+    "image": {
+      "width": 274,
+      "height": 154,
+      "cropTop": 0,
+      "cropBottom": 154
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 264,
+    "students": 4,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 18.6
+  },
+  {
+    "id": "video-ai-mastery",
+    "title": "IA Mastery",
+    "author": "Diego Arroyo",
+    "category": "Inteligencia artificial",
+    "cover": "assets/video-ai-mastery.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "lessons": 37,
+    "students": 4,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 19.5,
+    "aliases": [
+      "AI Mastery · Diego Nxt 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 1,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "El título sugiere una formación para dominar herramientas de inteligencia artificial, pero existen denominaciones similares y no se ha identificado un autor o edición inequívocos. Se requiere información adicional para elaborar una reseña fiable.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "video-ads-organic",
+    "title": "ADS by Organic Ecom – Marc Verdú",
+    "author": "Marc Verdú",
+    "category": "E-commerce y negocios digitales",
+    "cover": "assets/video-ads-organic.jpg",
+    "image": {
+      "width": 274,
+      "height": 154,
+      "cropTop": 0,
+      "cropBottom": 154
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 595,
+    "students": 6,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 20.5,
+    "aliases": [
+      "Ads by Organic Ecom"
+    ],
+    "inUserList": true,
+    "listPosition": 21,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Formación sobre dropshipping mediante publicidad de pago. Explica cómo buscar productos, crear tiendas online, desarrollar anuncios, lanzar campañas de Meta Ads y evaluar su rentabilidad para escalar las ventas.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Hotmart"
+      ],
+      "sourceLabel": "Fuente: Ficha de Hotmart",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "video-stories",
+    "title": "Stories Master",
+    "author": "Insta Coach Andy",
+    "category": "Marketing digital, publicidad y ventas",
+    "cover": "assets/video-stories.jpg",
+    "image": {
+      "width": 274,
+      "height": 154,
+      "cropTop": 0,
+      "cropBottom": 154
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 22,
+    "students": 20,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 21
+  },
+  {
+    "id": "video-heygen",
+    "title": "Cursos HeyGen",
+    "author": "Samuel Acosta",
+    "category": "Inteligencia artificial",
+    "cover": "assets/video-heygen.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 14,
+    "students": 15,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 21.5
+  },
+  {
+    "id": "video-gemini",
+    "title": "Gemini, Notebook LM y Workspace",
+    "author": "IA en Acción",
+    "category": "Inteligencia artificial",
+    "cover": "assets/video-gemini.jpg",
+    "image": {
+      "width": 274,
+      "height": 152,
+      "cropTop": 0,
+      "cropBottom": 152
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "lessons": 109,
+    "students": 13,
+    "price": null,
+    "accessUrl": null,
+    "source": "Ficha y portada capturadas del video de referencia.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "videoTimestamp": 22.5
+  },
+  {
+    "id": "curso-85",
+    "title": "Adrianus Flow 1.0 2026",
+    "category": "Trading y finanzas",
+    "author": "Adrián Moreno",
+    "cover": "assets/IMG-20261003-WA0085.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0085.jpg",
+      "width": 1536,
+      "height": 1024,
+      "cropTop": 92,
+      "cropBottom": 974,
+      "bytes": 183007,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-86",
+    "title": "AnubisFX 2026",
+    "category": "Trading y finanzas",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0086.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0086.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 573,
+      "cropBottom": 1007,
+      "bytes": 43784,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-87",
+    "title": "Rentas inteligentes",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0087.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0087.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 556,
+      "cropBottom": 1004,
+      "bytes": 37988,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Top ventas"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-88",
+    "title": "Master Escala",
+    "category": "Formación y desarrollo personal",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0088.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0088.jpg",
+      "width": 1338,
+      "height": 813,
+      "cropTop": 0,
+      "cropBottom": 813,
+      "bytes": 90687,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-89",
+    "title": "Fórmula 100K – Andrea Vega 2026",
+    "category": "YouTube y monetización",
+    "author": "Andrea Vega",
+    "cover": "assets/IMG-20261003-WA0089.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0089.jpg",
+      "width": 1440,
+      "height": 790,
+      "cropTop": 51,
+      "cropBottom": 790,
+      "bytes": 126761,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "Fórmula 100K"
+    ],
+    "inUserList": true,
+    "listPosition": 13,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Sistema de creación de contenido viral y construcción de marca personal. Su comunidad incorpora guiones, estrategias de venta mediante historias, calendario de publicaciones y herramientas de IA. También existe un libro de Andrea Vega titulado Fórmula 100K, cuya primera edición corresponde a 2025.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Apple Inc."
+      ],
+      "sourceLabel": "Fuente: Comunidad Fórmula 100K",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-90",
+    "title": "Organic Ecommerce con módulos IA 2026",
+    "category": "E-commerce y negocios digitales",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0090.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0090.jpg",
+      "width": 1398,
+      "height": 770,
+      "cropTop": 0,
+      "cropBottom": 770,
+      "bytes": 162585,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-91",
+    "title": "Monetización de canales con IA",
+    "category": "YouTube y monetización",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0091.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0091.jpg",
+      "width": 1335,
+      "height": 811,
+      "cropTop": 0,
+      "cropBottom": 811,
+      "bytes": 149101,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-92",
+    "title": "Creator Club 2026 – Diego Arroyo",
+    "category": "Creación de contenido y marca personal",
+    "author": "Diego Arroyo",
+    "cover": "assets/IMG-20261003-WA0092.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0092.jpg",
+      "width": 1363,
+      "height": 767,
+      "cropTop": 0,
+      "cropBottom": 767,
+      "bytes": 131627,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": 26,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "aliases": [
+      "Creator Club",
+      "Creator Club 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 29,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Formación dirigida a creadores y editores de vídeo que desean profesionalizar sus habilidades. Su enfoque es producir piezas audiovisuales atractivas, mejorar la edición y convertir esa capacidad en un servicio comercializable.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Creator Club"
+      ],
+      "sourceLabel": "Fuente: Creator Club oficial",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-93",
+    "title": "Vende con Facebook Ads 2026",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0093.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0093.jpg",
+      "width": 1350,
+      "height": 807,
+      "cropTop": 0,
+      "cropBottom": 807,
+      "bytes": 143056,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-94",
+    "title": "Master Tube 2026 – Marc Basi",
+    "category": "YouTube y monetización",
+    "author": "Marc Basi",
+    "cover": "assets/IMG-20261003-WA0094.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0094.jpg",
+      "width": 1380,
+      "height": 769,
+      "cropTop": 0,
+      "cropBottom": 766,
+      "bytes": 121845,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "MasterTube"
+    ],
+    "inUserList": true,
+    "listPosition": 9,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Formación comercializada bajo el nombre de Marc Basi y vinculada con el negocio de YouTube. Se identificaron fichas de terceros, pero no un temario oficial completo de la edición 2026.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Vortex Streaming"
+      ],
+      "sourceLabel": "Referencia comercial:",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-95",
+    "title": "Vende tu ebook mientras duermes",
+    "category": "E-commerce y negocios digitales",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0095.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0095.jpg",
+      "width": 1370,
+      "height": 844,
+      "cropTop": 0,
+      "cropBottom": 844,
+      "bytes": 126925,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-96",
+    "title": "Curso de Claude paso a paso 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0096.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0096.jpg",
+      "width": 1379,
+      "height": 831,
+      "cropTop": 0,
+      "cropBottom": 831,
+      "bytes": 143130,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-97",
+    "title": "Inglés Raio 2026",
+    "category": "Formación y desarrollo personal",
+    "author": "Kale Anders",
+    "cover": "assets/IMG-20261003-WA0097.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0097.jpg",
+      "width": 1417,
+      "height": 785,
+      "cropTop": 0,
+      "cropBottom": 785,
+      "bytes": 146635,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026",
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 201,
+    "students": 147,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+  },
+  {
+    "id": "curso-98",
+    "title": "IA Makers 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0098.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0098.jpg",
+      "width": 1389,
+      "height": 774,
+      "cropTop": 0,
+      "cropBottom": 774,
+      "bytes": 143350,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-99",
+    "title": "UGC Academy 2026",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0099.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0099.jpg",
+      "width": 1363,
+      "height": 823,
+      "cropTop": 0,
+      "cropBottom": 814,
+      "bytes": 152073,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-100",
+    "title": "Mike IA – Influencer IA",
+    "category": "Inteligencia artificial",
+    "author": "Mike IA",
+    "cover": "assets/IMG-20261003-WA0100.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0100.jpg",
+      "width": 1379,
+      "height": 798,
+      "cropTop": 0,
+      "cropBottom": 798,
+      "bytes": 105681,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "IA Influencer"
+    ],
+    "inUserList": true,
+    "listPosition": 5,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "El nombre apunta a la creación de influencers virtuales utilizando inteligencia artificial. No se identificó un programa público inequívoco que permita confirmar su metodología o edición.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-101",
+    "title": "Viraliza",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0101.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0101.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 557,
+      "cropBottom": 1003,
+      "bytes": 44050,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Top ventas"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-102",
+    "title": "Inteligencia Viral 2026 – Julián Alborna",
+    "category": "YouTube y monetización",
+    "author": "Julián Alborna",
+    "cover": "assets/IMG-20261003-WA0102.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0102.jpg",
+      "width": 1375,
+      "height": 764,
+      "cropTop": 0,
+      "cropBottom": 764,
+      "bytes": 142920,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026",
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 41,
+    "students": 175,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "aliases": [
+      "Inteligencia Viral 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 12,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Programa identificado en catálogos comerciales dentro de creación de contenido y redes sociales. Su propuesta se relaciona con la viralidad digital. Falta verificar el contenido detallado de la edición 2026 directamente con su creador.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Cursos & Infoproductos"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-103",
+    "title": "IA Marketing: ventas automáticas",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Dubner Mendoza",
+    "cover": "assets/IMG-20261003-WA0103.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0103.jpg",
+      "width": 1379,
+      "height": 766,
+      "cropTop": 0,
+      "cropBottom": 766,
+      "bytes": 163929,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-104",
+    "title": "Mateo Mafia – BYF 2026",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0104.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0104.jpg",
+      "width": 1393,
+      "height": 836,
+      "cropTop": 0,
+      "cropBottom": 836,
+      "bytes": 169851,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "Mateo Mafia 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 27,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "classificationStatus": "Categoría provisional según la lista facilitada.",
+    "review": {
+      "text": "No se ha identificado con suficiente certeza el significado comercial de BYF ni el contenido concreto de esta edición. Su clasificación en marketing es provisional.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-105",
+    "title": "Monetiza en 24 horas",
+    "category": "YouTube y monetización",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0105.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0105.jpg",
+      "width": 1364,
+      "height": 761,
+      "cropTop": 0,
+      "cropBottom": 761,
+      "bytes": 162765,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-106",
+    "title": "Creator Monetización LAP 2026",
+    "category": "YouTube y monetización",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0106.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0106.jpg",
+      "width": 1432,
+      "height": 782,
+      "cropTop": 0,
+      "cropBottom": 782,
+      "bytes": 175073,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-107",
+    "title": "Club Creadores IA – Ale Ferr 2026",
+    "category": "Inteligencia artificial",
+    "author": "Ale Ferr",
+    "cover": "assets/IMG-20261003-WA0107.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0107.jpg",
+      "width": 1409,
+      "height": 781,
+      "cropTop": 2,
+      "cropBottom": 781,
+      "bytes": 187677,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado",
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": 24,
+    "students": 6,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "alternativeCovers": [
+      "assets/IMG-20261003-WA0122.jpg"
+    ],
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "aliases": [
+      "CCIA · Monetiza con IA"
+    ],
+    "inUserList": true,
+    "listPosition": 7,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Comunidad de formación enfocada en crear y monetizar canales de YouTube utilizando IA, incluso sin aparecer frente a cámara. Ofrece formación organizada, mentorías, llamadas grupales, plantillas y recursos para seleccionar nichos.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Skool"
+      ],
+      "sourceLabel": "Fuente: Ficha del Club Creadores IA",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-108",
+    "title": "Afiliado Pro NOV",
+    "category": "E-commerce y negocios digitales",
+    "author": "Javi Elices",
+    "cover": "assets/IMG-20261003-WA0108.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0108.jpg",
+      "width": 1393,
+      "height": 836,
+      "cropTop": 0,
+      "cropBottom": 836,
+      "bytes": 159064,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-109",
+    "title": "Monetiza música con IA 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0109.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0109.jpg",
+      "width": 1376,
+      "height": 770,
+      "cropTop": 0,
+      "cropBottom": 770,
+      "bytes": 172368,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-110",
+    "title": "Organic Clipping 2026",
+    "category": "YouTube y monetización",
+    "author": "Marc Verdú",
+    "cover": "assets/IMG-20261003-WA0110.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0110.jpg",
+      "width": 1371,
+      "height": 752,
+      "cropTop": 0,
+      "cropBottom": 752,
+      "bytes": 149938,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026",
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 21,
+    "students": 51,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+  },
+  {
+    "id": "curso-111",
+    "title": "Domina YouTube Shorts desde cero 2026",
+    "category": "YouTube y monetización",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0111.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0111.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 577,
+      "cropBottom": 983,
+      "bytes": 73313,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-114",
+    "title": "La Verdad",
+    "category": "E-commerce y negocios digitales",
+    "author": "Arz Urus",
+    "cover": "assets/IMG-20261003-WA0114.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0114.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 602,
+      "cropBottom": 973,
+      "bytes": 49358,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 48,
+    "students": 151,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+  },
+  {
+    "id": "curso-115",
+    "title": "VProject · Viralidad",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Víctor Heras",
+    "cover": "assets/IMG-20261003-WA0115.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0115.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 586,
+      "cropBottom": 968,
+      "bytes": 30675,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-116",
+    "title": "Millonario a los 24 años",
+    "category": "Formación y desarrollo personal",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0116.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0116.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 578,
+      "cropBottom": 982,
+      "bytes": 59803,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-117",
+    "title": "SIM Academy",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Mindshift",
+    "cover": "assets/IMG-20261003-WA0117.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0117.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 561,
+      "cropBottom": 1000,
+      "bytes": 57879,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 55,
+    "students": 129,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+  },
+  {
+    "id": "curso-118",
+    "title": "Academia del Estratega",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Juan ADS",
+    "cover": "assets/IMG-20261003-WA0118.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0118.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 533,
+      "cropBottom": 1026,
+      "bytes": 52669,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 304,
+    "students": 16,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+  },
+  {
+    "id": "curso-119",
+    "title": "Photoshop IA 2026",
+    "category": "Creación de contenido y marca personal",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0119.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0119.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 576,
+      "cropBottom": 984,
+      "bytes": 53661,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-120",
+    "title": "Cómo crear una landing page",
+    "category": "Creación de contenido y marca personal",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0120.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0120.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 577,
+      "cropBottom": 983,
+      "bytes": 40479,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-121",
+    "title": "Monetiza con IA",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0121.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0121.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 600,
+      "cropBottom": 960,
+      "bytes": 31383,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-123",
+    "title": "Claude Creator 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0123.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0123.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 590,
+      "cropBottom": 969,
+      "bytes": 64683,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-124",
+    "title": "Universidad de Marca Personal",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Víctor Heras",
+    "cover": "assets/IMG-20261003-WA0124.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0124.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 577,
+      "cropBottom": 983,
+      "bytes": 36692,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 238,
+    "students": 15,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales."
+  },
+  {
+    "id": "curso-125",
+    "title": "Avatares IA desde cero",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0125.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0125.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 579,
+      "cropBottom": 981,
+      "bytes": 42625,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-126",
+    "title": "UDNIA – Rodrigo Alfaro 2026",
+    "category": "Formación y desarrollo personal",
+    "author": "Rodrigo Alfaro",
+    "cover": "assets/IMG-20261003-WA0126.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0126.jpg",
+      "width": 640,
+      "height": 438,
+      "cropTop": 15,
+      "cropBottom": 435,
+      "bytes": 30886,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "UDNIA"
+    ],
+    "inUserList": true,
+    "listPosition": 34,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "classificationStatus": "Categoría provisional según la lista facilitada.",
+    "review": {
+      "text": "Se encontraron referencias comerciales a un producto digital denominado UDNIA, asociado con Rodrigo Alfaro. La información localizada no permite confirmar con precisión su temario ni el enfoque específico de la edición 2026.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Master Libre"
+      ],
+      "sourceLabel": "Referencia:",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-127",
+    "title": "Método Chicas IA 4.0 – 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0127.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0127.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 581,
+      "cropBottom": 979,
+      "bytes": 54135,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "Método Chicas IA 4.0"
+    ],
+    "inUserList": true,
+    "listPosition": 6,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Se encontraron referencias comerciales con esta denominación. Sin embargo, no se ha podido contrastar su temario, creador o portada de la versión 4.0 con una fuente original.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "streamingwolff.com"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-128",
+    "title": "$100M Money Models",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Alex Hormozi",
+    "cover": "assets/IMG-20261003-WA0128.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0128.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 585,
+      "cropBottom": 975,
+      "bytes": 65676,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "Destacado"
+    ],
+    "accessUrl": null,
+    "lessons": 39,
+    "students": 157,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "metricsSource": "Cifras mostradas en el video de referencia; no verificadas como actuales.",
+    "aliases": [
+      "$100M Money Models"
+    ],
+    "inUserList": true,
+    "listPosition": 23,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Libro empresarial que explica cómo diseñar secuencias de ofertas para captar clientes, incrementar el ingreso por comprador y generar compras recurrentes. Desarrolla estrategias de ofertas iniciales, ventas complementarias, alternativas de compra y continuidad.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Editorial: Acquisition.com, 2025.",
+        "Google Books"
+      ],
+      "sourceLabel": "Fuente: Ficha bibliográfica de Google Books",
+      "receivedAt": "2026-10-04",
+      "editionNote": "La reseña aportada describe el libro publicado en 2025. Esta ficha conserva el curso y las métricas mostradas en el video; no se ha confirmado que correspondan al mismo formato."
+    }
+  },
+  {
+    "id": "curso-129",
+    "title": "MonetizaTube – Mari Fuentes 2026",
+    "category": "YouTube y monetización",
+    "author": "Mari Fuentes",
+    "cover": "assets/IMG-20261003-WA0129.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0129.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 583,
+      "cropBottom": 978,
+      "bytes": 57394,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "MonetizaTube 2026"
+    ],
+    "inUserList": true,
+    "listPosition": 10,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Programa dedicado a desarrollar canales de YouTube sin mostrar el rostro. Aborda selección de nichos, guiones, creación de vídeos, automatización, interpretación de métricas y diferentes formas de monetización.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "MARIFUENTES"
+      ],
+      "sourceLabel": "Fuente: Mari Fuentes – MonetizaTube",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "curso-133",
+    "title": "De espectador a creador",
+    "category": "YouTube y monetización",
+    "author": "",
+    "cover": "assets/IMG-20261003-WA0133.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0133.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 592,
+      "cropBottom": 972,
+      "bytes": 62558,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida."
+  },
+  {
+    "id": "curso-134",
+    "title": "Pack Alejandro Cardona",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Alejandro Cardona",
+    "cover": "assets/IMG-20261003-WA0134.jpg",
+    "image": {
+      "file": "IMG-20261003-WA0134.jpg",
+      "width": 720,
+      "height": 1560,
+      "cropTop": 565,
+      "cropBottom": 995,
+      "bytes": 62711,
+      "exif": {}
+    },
+    "type": "Curso",
+    "badges": [],
+    "accessUrl": null,
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "source": "Título y autor transcritos de la portada; categoría editorial inferida.",
+    "aliases": [
+      "Todos los cursos de Alejandro Cardona"
+    ],
+    "inUserList": true,
+    "listPosition": 26,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "El término Pack no identifica una formación única. Se necesita conocer los títulos incluidos para elaborar una reseña verificable de sus contenidos.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-02",
+    "title": "IA Pro Business – Herramientas IA para tu Negocio 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 2,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Por su denominación, estaría orientado a la aplicación empresarial de la inteligencia artificial. No se localizó un temario público suficientemente identificable que permita confirmar sus herramientas o módulos.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-04",
+    "title": "Pack Fabio IA – IA Markets y Monetiza con IA",
+    "category": "Inteligencia artificial",
+    "author": "Fabio IA",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 4,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Se presenta como un paquete de contenidos vinculados con negocios e inteligencia artificial. No fue posible verificar que IA Markets y Monetiza con IA formen parte de un mismo producto oficial.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-08",
+    "title": "Super Copywriting IA 2026",
+    "category": "Inteligencia artificial",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 8,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Por el título, se relacionaría con redacción persuasiva mediante inteligencia artificial. No se encontró una edición claramente identificable con autor y contenido verificables.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-11",
+    "title": "Monetización Johan 2026",
+    "category": "YouTube y monetización",
+    "author": "Johan",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 11,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "La información disponible no permite establecer el nombre completo del instructor ni la plataforma que enseña a monetizar. Se requiere el nombre comercial exacto.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-14",
+    "title": "Tu Camino a los 200K – David Junior Silva",
+    "category": "YouTube y monetización",
+    "author": "David Junior Silva",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 14,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Programa orientado a comercializar productos o servicios mediante venta directa orgánica, creación de contenido, campañas de mensajes, lanzamientos y automatización. La información encontrada procede principalmente de distribuidores externos.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "David Junior 〖BARATO〗"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    },
+    "aliases": [
+      "Tu Camino a los 200K"
+    ]
+  },
+  {
+    "id": "lista-2026-15",
+    "title": "Monetiza Facebook este 2026 – Convierte tu Tiempo en Dinero desde C…",
+    "category": "Facebook, Instagram y redes sociales",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 15,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "titleStatus": "Título incompleto en la lista facilitada.",
+    "review": {
+      "text": "El nombre sugiere una formación dirigida a transformar la actividad en Facebook en una fuente de ingresos. El título original está incompleto y no permite verificar quién imparte el curso ni cuáles son sus módulos.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-16",
+    "title": "Facebook e Instagram – Felipe Vergara 2026 (Actualizado)",
+    "category": "Facebook, Instagram y redes sociales",
+    "author": "Felipe Vergara",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 16,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Se encontraron referencias a una formación de Facebook e Instagram Ads de Felipe Vergara. Por la denominación localizada, está vinculada a la publicidad digital en las plataformas de Meta. Falta validar el temario exacto de la actualización 2026 y su portada oficial.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Master Libre"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-17",
+    "title": "Tokin Privacy 2026",
+    "category": "Ciberseguridad y privacidad",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 17,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "classificationStatus": "Reclasificado según los alcances aportados por el propietario.",
+    "review": {
+      "text": "Formación especializada en privacidad y seguridad digital. Enseña a proteger cuentas, minimizar la huella digital, utilizar herramientas de navegación privada, proteger comunicaciones y comprender técnicas de ciberinteligencia.\nAunque inicialmente estaba en redes sociales, corresponde mejor a la categoría de ciberseguridad.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "tokinprivacy.io"
+      ],
+      "sourceLabel": "Fuente: Tokin Privacy – Privacidad Total",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-18",
+    "title": "Club del E-commerce – Sebastián Reátegui",
+    "category": "E-commerce y negocios digitales",
+    "author": "Sebastián Reátegui",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 18,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Por su nombre, estaría relacionado con comercio electrónico y desarrollo de negocios online. No se identificó una página pública suficientemente fiable que confirme el programa y su contenido.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-20",
+    "title": "E-commerce Lathos Club – Andrei Mirescu 2026",
+    "category": "E-commerce y negocios digitales",
+    "author": "Andrei Mirescu",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 20,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Programa asociado al emprendimiento mediante e-commerce. Se encontraron referencias comerciales al nombre Lathos Club y a Andrei Mirescu, pero la relación con la edición exacta de 2026 y su temario requiere mayor confirmación.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Hipnosis"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-22",
+    "title": "Método Yapes Automáticos 2.0 – Alimberth Campos 2026",
+    "category": "E-commerce y negocios digitales",
+    "author": "Alimberth Campos",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 22,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "No se encontró una fuente suficientemente clara para confirmar el funcionamiento del método. Se conserva el nombre original, sin atribuirle mecanismos de generación de ingresos que no estén documentados.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-24",
+    "title": "Funnel Hackers – Juan Londoño 2026",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Juan Londoño",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 24,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Escuela de negocios digitales que reúne formación en marketing, ventas, copywriting, embudos de conversión y publicidad digital. Su propuesta combina habilidades comerciales, desarrollo de activos digitales y construcción de sistemas escalables.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Skool"
+      ],
+      "sourceLabel": "Fuente: Funnel Hackers en Skool",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-25",
+    "title": "Secret Ads – Samuel Vilanova 2026",
+    "category": "Marketing digital, publicidad y ventas",
+    "author": "Samuel Vilanova",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 25,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Comunidad formativa centrada en aprender sobre anuncios publicitarios y desarrollar criterios para trabajar en publicidad digital. Su página pública confirma al creador y la existencia de clases orientadas a dominar los anuncios.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Skool"
+      ],
+      "sourceLabel": "Fuente: Secret Ads en Skool",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-28",
+    "title": "Jaque Blue – Creación de Contenido 2026",
+    "category": "Creación de contenido y marca personal",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 28,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Masterclass dedicada a crear contenido con identidad propia. Aborda diferenciación, generación de ideas, construcción de guiones, ritmo audiovisual, comprensión de la audiencia y monetización de contenidos. Existen referencias comerciales, pero no se confirmó la portada de una edición específica de 2026.",
+      "status": "yellow",
+      "statusLabel": "Referencia parcial",
+      "originalColor": "Amarillo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "CursosBaratos"
+      ],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-32",
+    "title": "Instituto de Comunicación – Adrià Solà Pastor",
+    "category": "Creación de contenido y marca personal",
+    "author": "Adrià Solà Pastor",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 32,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Formación centrada en comunicación efectiva, seguridad al hablar, uso de la voz, carisma y capacidad de influir mediante la expresión. Está orientada al desarrollo personal, las relaciones interpersonales y la comunicación profesional.",
+      "status": "green",
+      "statusLabel": "Fuente identificada",
+      "originalColor": "Verde",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [
+        "Instituto de comunicación"
+      ],
+      "sourceLabel": "Fuente: Instituto de Comunicación oficial",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-33",
+    "title": "Curso de Trading ClutiFX – Carles Clotet",
+    "category": "Trading y finanzas",
+    "author": "Carles Clotet",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 33,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Por su denominación, corresponde al ámbito del trading financiero. Sin embargo, no se ha encontrado documentación pública suficientemente clara que permita confirmar su metodología, los mercados abordados o su contenido curricular.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-35",
+    "title": "Estimulación Adecuada para Niños de 0 a 2 Años – 2026",
+    "category": "Formación y desarrollo personal",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 35,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "El título indica una formación relacionada con la estimulación y el desarrollo durante la primera infancia. No se identificó una edición específica ni su institución responsable, por lo que no sería correcto atribuirle un temario concreto.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  },
+  {
+    "id": "lista-2026-36",
+    "title": "Squirt Femenino 2026",
+    "category": "Sexualidad y educación sexual",
+    "author": "",
+    "cover": null,
+    "image": null,
+    "type": "Curso",
+    "badges": [
+      "2026"
+    ],
+    "lessons": null,
+    "students": null,
+    "price": null,
+    "accessUrl": null,
+    "source": "Lista de 36 registros facilitada por el usuario.",
+    "inUserList": true,
+    "listPosition": 36,
+    "sourceList": "Catálogo de cursos 2026: lista facilitada por el usuario.",
+    "review": {
+      "text": "Por su título, el material trataría sobre sexualidad femenina y el fenómeno de la expulsión de fluidos durante la excitación sexual. No se localizó un curso específico que permita confirmar su autoría, enfoque educativo o contenido.",
+      "status": "red",
+      "statusLabel": "Por identificar",
+      "originalColor": "Rojo",
+      "origin": "Reseña y estado aportados por el propietario.",
+      "sourceReferences": [],
+      "sourceLabel": "",
+      "receivedAt": "2026-10-04"
+    }
+  }
+]
